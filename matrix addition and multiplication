@@ -10,7 +10,7 @@ public class Main{
         System.out.print(c[i][j]+" ");
       }
     }
- }
+  }
 }
 
 // program for matrix multiplication
@@ -25,5 +25,5 @@ public class Main{
         System.out.print(c[i][j]+" ");
       }
     }
- }
+  }
 }
